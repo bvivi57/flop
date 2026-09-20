@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# jamais de cle privee ni de passphrase dans ce depot
+*.pem
+*.key
+
+# preuves locales (JSON signes conserves hors du depot public)
+proofs/
