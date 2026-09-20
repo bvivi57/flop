@@ -89,6 +89,9 @@ Guide complet — Technocore, les DID, la création d'identité sous Linux et
 Windows, et les pièges mesurés :
 <https://www.myprivatelab.tech/flop/technocore-did>
 
+La source Markdown de l'article est versionnée ici :
+[`docs/publication/technocore-did.md`](docs/publication/technocore-did.md).
+
 Suite de la série : préparation d'un serveur Linux pour le minage GPU, puis
 benchmarks.
 
