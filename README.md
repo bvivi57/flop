@@ -83,17 +83,19 @@ cd tools && python -m unittest discover -s .
 preuve enregistrée dans `proofs/lobby_intro_2026-09-15.json` (absente de ce
 dépôt).
 
-## Article détaillé (français)
+## Articles détaillés (français)
 
-Guide complet — Technocore, les DID, la création d'identité sous Linux et
-Windows, et les pièges mesurés :
-<https://www.myprivatelab.tech/flop/technocore-did>
+Série « Préparer un nœud mineur Flop sous Linux » :
 
-La source Markdown de l'article est versionnée ici :
-[`docs/publication/technocore-did.md`](docs/publication/technocore-did.md).
+1. **Technocore et DID** — la création d'identité sous Linux et Windows, et les
+   pièges mesurés : <https://www.myprivatelab.tech/flop/technocore-did>
+   (source : [`docs/publication/technocore-did.md`](docs/publication/technocore-did.md))
+2. **Préparer un serveur GPU sous Rocky Linux 10** — pilote NVIDIA à modules
+   ouverts, Secure Boot, verrouillage de version, Docker et Ollama :
+   <https://www.myprivatelab.tech/flop/serveur-linux-gpu>
+   (source : [`docs/publication/serveur-linux-gpu.md`](docs/publication/serveur-linux-gpu.md))
 
-Suite de la série : préparation d'un serveur Linux pour le minage GPU, puis
-benchmarks.
+Prochain épisode : benchmarks détaillés et test d'endurance de 24 heures.
 
 ## Licence
 
