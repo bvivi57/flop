@@ -9,3 +9,6 @@ venv/
 
 # preuves locales (JSON signes conserves hors du depot public)
 proofs/
+
+# resultats de bench_ollama.py
+bench/
