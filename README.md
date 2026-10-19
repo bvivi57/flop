@@ -139,9 +139,10 @@ Série « Préparer un nœud mineur Flop sous Linux » :
    ouverts, Secure Boot, verrouillage de version, Docker et Ollama :
    <https://www.myprivatelab.tech/flop/serveur-linux-gpu>
    (source : [`docs/publication/serveur-linux-gpu.md`](docs/publication/serveur-linux-gpu.md))
-
-Prochain épisode : benchmarks détaillés, test d'endurance de 24 heures
-(avec `bench_ollama.py`) et checklist provisoire du jour J.
+3. **24 heures à pleine charge** — méthode de mesure, benchmarks, test
+   d'endurance de 24 heures avec `bench_ollama.py`, et checklist provisoire du
+   jour J pour le testnet (article sur le blog à venir ; source :
+   [`docs/publication/benchmarks-soak-jour-j.md`](docs/publication/benchmarks-soak-jour-j.md))
 
 ## Licence
 
