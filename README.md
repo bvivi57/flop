@@ -141,8 +141,8 @@ Série « Préparer un nœud mineur Flop sous Linux » :
    (source : [`docs/publication/serveur-linux-gpu.md`](docs/publication/serveur-linux-gpu.md))
 3. **24 heures à pleine charge** — méthode de mesure, benchmarks, test
    d'endurance de 24 heures avec `bench_ollama.py`, et checklist provisoire du
-   jour J pour le testnet (article sur le blog à venir ; source :
-   [`docs/publication/benchmarks-soak-jour-j.md`](docs/publication/benchmarks-soak-jour-j.md))
+   jour J pour le testnet : <https://www.myprivatelab.tech/flop/benchmarks-soak-jour-j>
+   (source : [`docs/publication/benchmarks-soak-jour-j.md`](docs/publication/benchmarks-soak-jour-j.md))
 
 ## Licence
 
