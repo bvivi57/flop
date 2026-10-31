@@ -275,7 +275,9 @@ répondra.
 
 ## 7. La suite
 
-- **Épisode 4** : l'ouverture du testnet, en direct, avec la checklist confrontée
+- **[Épisode 4](https://www.myprivatelab.tech/flop/mineur-validateur-une-machine)** :
+  mineur et validateur sur la même machine, ce que demande Flop face à ce que j'ai.
+- **Épisode 5** : l'ouverture du testnet, en direct, avec la checklist confrontée
   à la réalité.
 
 Mon DID : `did:key:z6MkgzG86nL4pgoytHsEUAshr24ByY8pvmRxYWFuVS2Y1DQi`
