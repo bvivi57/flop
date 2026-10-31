@@ -145,7 +145,8 @@ Série « Préparer un nœud mineur Flop sous Linux » :
    (source : [`docs/publication/benchmarks-soak-jour-j.md`](docs/publication/benchmarks-soak-jour-j.md))
 4. **Mineur et validateur sur la même machine** — ce que demande Flop face à un
    serveur domestique : processeur, mémoire, disque, ports à ouvrir, RPC à
-   protéger, clés séparées, et ce qui reste inconnu (article sur le blog à venir)
+   protéger, clés séparées, et ce qui reste inconnu :
+   <https://www.myprivatelab.tech/flop/mineur-validateur-une-machine>
    (source : [`docs/publication/mineur-validateur-une-machine.md`](docs/publication/mineur-validateur-une-machine.md))
 
 ## Licence
