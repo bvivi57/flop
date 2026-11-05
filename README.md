@@ -148,6 +148,11 @@ Série « Préparer un nœud mineur Flop sous Linux » :
    protéger, clés séparées, et ce qui reste inconnu :
    <https://www.myprivatelab.tech/flop/mineur-validateur-une-machine>
    (source : [`docs/publication/mineur-validateur-une-machine.md`](docs/publication/mineur-validateur-une-machine.md))
+5. **Mon mineur sur le devnet** — du pack officiel à la calibration acceptée sur
+   la chaîne : exposition HTTPS sans port ouvert, parrainage saturé, verrou du
+   signataire après un refus de frais, et leçons pour le testnet :
+   <https://www.myprivatelab.tech/flop/mineur-devnet-calibre>
+   (source : [`docs/publication/mineur-devnet-calibre.md`](docs/publication/mineur-devnet-calibre.md))
 
 ## Licence
 

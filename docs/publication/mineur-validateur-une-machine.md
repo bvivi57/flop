@@ -213,7 +213,9 @@ de secours avant de lire la documentation validateur officielle du testnet.
 
 ## 8. La suite
 
-- **Épisode 5** : l'ouverture du testnet, en direct, avec la checklist de
+- **[Épisode 5](https://www.myprivatelab.tech/flop/mineur-devnet-calibre)** :
+  mon mineur sur le devnet, du parrainage saturé à la calibration acceptée.
+- **Épisode 6** : l'ouverture du testnet, en direct, avec la checklist de
   l'épisode 3 et celle de cet article confrontées à la réalité.
 
 Mon DID : `did:key:z6MkgzG86nL4pgoytHsEUAshr24ByY8pvmRxYWFuVS2Y1DQi`
